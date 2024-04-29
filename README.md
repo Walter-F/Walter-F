@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=37009A&center=true&repeat=false&random=false&width=1000&height=100&lines=%F0%9F%92%BC+I+look+forward+to+cooperation+at+the+moment)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=37009A&center=true&repeat=false&random=false&width=1000&height=100&lines=%F0%9F%93%A7+How+to+reach+me%3A+sva_work%40inbox.com)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=37009A&repeat=false&random=false&width=550&lines=%D0%A1%D1%82%D0%B5%D0%BA+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC%D1%8B%D1%85+%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=37009A&center=true&repeat=false&random=false&width=1000&height=200&lines=%F0%9F%94%A8+The+stack+of+technologies+used)](https://git.io/typing-svg)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

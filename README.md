@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning С#
 - 💞️ I look forward to cooperation at the moment
 - 📫 How to reach me walter.sva@inbox.ru
+
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)

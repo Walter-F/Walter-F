@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=37009A&random=false&width=550&lines=Hi%2C+I%E2%80%99m+%40Walter-F%2C+C%23%2F.NET+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=37009A&center=true&repeat=false&random=false&width=1000&height=200&lines=%F0%9F%91%8B+Hi%2C+I'm+%40Walter-F%2C+C%23%2F.NET+Software+Engineer)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=37009A&repeat=false&random=false&width=550&lines=I+look+forward+to+cooperation+at+the+moment)](https://git.io/typing-svg)
 

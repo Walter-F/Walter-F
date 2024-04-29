@@ -28,3 +28,5 @@
 
 [[![trophy](https://github-profile-trophy.vercel.app/?username=Walter-F&title=Experience,Commits,Repositories&theme=onedark)](https://github.com/Walter-F/github-profile-trophy)]
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Walter-F)](https://git.io/streak-stats)
+

@@ -24,5 +24,5 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
-[[![trophy](https://github-profile-trophy.vercel.app/?username=Walter-F&theme=onedark)](https://github.com/Walter-F/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)
+[[![trophy](https://github-profile-trophy.vercel.app/?username=Walter-F&theme=onedark)](https://github.com/Walter-F/github-profile-trophy)]
 

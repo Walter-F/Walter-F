@@ -28,5 +28,5 @@
 
 [[![trophy](https://github-profile-trophy.vercel.app/?username=Walter-F&title=Experience,Commits,Repositories&theme=onedark)](https://github.com/Walter-F/github-profile-trophy)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walter-Fa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walter-F&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

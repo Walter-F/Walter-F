@@ -3,6 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=37009A&center=true&repeat=false&random=false&width=1000&height=100&lines=%F0%9F%92%BC+I+look+forward+to+cooperation+at+the+moment)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=37009A&center=true&repeat=false&random=false&width=1000&height=100&lines=%F0%9F%93%A7+How+to+reach+me%3A+sva_work%40inbox.com)](https://git.io/typing-svg)
 
+
+###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=37009A&repeat=false&random=false&width=1000&height=50&lines=%F0%9F%94%A8+The+stack+of+technologies+used)](https://git.io/typing-svg)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)

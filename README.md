@@ -24,5 +24,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=37009A&repeat=false&random=false&width=550&lines=%F0%9F%8F%86+GitHub+Profile+Trophy)](https://git.io/typing-svg)
+
 [[![trophy](https://github-profile-trophy.vercel.app/?username=Walter-F&theme=onedark)](https://github.com/Walter-F/github-profile-trophy)]
 

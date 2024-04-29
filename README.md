@@ -17,7 +17,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=37009A&center=true&repeat=false&random=false&width=500&height=200&lines=%F0%9F%92%BC+I+look+forward+to+cooperation+at+the+moment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=37009A&center=true&repeat=false&random=false&width=1000&height=200&lines=%F0%9F%92%BC+I+look+forward+to+cooperation+at+the+moment)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=37009A&center=true&repeat=false&random=false&width=1000&height=200&lines=%F0%9F%93%A7+How+to+reach+me%3A+sva_work%40inbox.com)](https://git.io/typing-svg)
 

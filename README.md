@@ -26,6 +26,7 @@
 
 [[![trophy](https://github-profile-trophy.vercel.app/?username=Walter-F&title=Experience,Commits,Repositories&theme=onedark)](https://github.com/Walter-F/github-profile-trophy)]
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=37009A&repeat=false&random=false&width=500&lines=%F0%9F%93%91+Statistics+by+language)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walter-F&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=#6300FFFF&center=true&repeat=true&random=false&width=1000&height=200&lines=%F0%9F%91%8B+Hi%2C+I'm+%40Walter-F%2C+C%23%2F.NET+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6300FFFF&center=true&repeat=true&random=false&width=1000&height=200&lines=%F0%9F%91%8B+Hi%2C+I'm+%40Walter-F%2C+C%23%2F.NET+Software+Engineer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=#6300FFFF&center=true&repeat=false&random=false&width=1000&height=100&lines=%F0%9F%92%BC+I+look+forward+to+cooperation+at+the+moment)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=#6300FFFF&center=true&repeat=false&random=false&width=1000&height=100&lines=%F0%9F%93%A7+How+to+reach+me%3A+sva_work%40inbox.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6300FFFF&center=true&repeat=false&random=false&width=1000&height=100&lines=%F0%9F%92%BC+I+look+forward+to+cooperation+at+the+moment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6300FFFF&center=true&repeat=false&random=false&width=1000&height=100&lines=%F0%9F%93%A7+How+to+reach+me%3A+sva_work%40inbox.com)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=37009A&repeat=false&random=false&width=435&height=100&lines=%F0%9F%94%A8+The+stack+of+technologies+used)](https://git.io/typing-svg)
 

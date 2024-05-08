@@ -3,6 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6300FFFF&center=true&repeat=false&random=false&width=1000&height=100&lines=%F0%9F%92%BC+I+look+forward+to+cooperation+at+the+moment)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6300FFFF&center=true&repeat=false&random=false&width=1000&height=100&lines=%F0%9F%93%A7+How+to+reach+me%3A+sva_work%40inbox.com)](https://git.io/typing-svg)
 
+____
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6300FFFF&repeat=false&random=false&width=435&height=100&lines=%F0%9F%94%A8+The+stack+of+technologies+used)](https://git.io/typing-svg)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -25,9 +27,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+____
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6300FFFF&repeat=false&random=false&width=500&lines=%F0%9F%8F%86+GitHub+Profile+Trophy)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Walter-F&title=Experience,Commits,Repositories&theme=onedark)](https://github.com/Walter-F/github-profile-trophy)
+
+____
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6300FFFF&repeat=false&random=false&width=500&lines=%F0%9F%93%91+Statistics+by+language)](https://git.io/typing-svg)
 

@@ -5,7 +5,7 @@
 
 ____
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6300FFFF&repeat=false&random=false&width=435&height=100&lines=%F0%9F%94%A8+The+stack+of+technologies+used)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6300FFFF&repeat=false&random=false&width=435&height=100&lines=%F0%9F%94%A8+The+stack+of+technologies)](https://git.io/typing-svg)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
